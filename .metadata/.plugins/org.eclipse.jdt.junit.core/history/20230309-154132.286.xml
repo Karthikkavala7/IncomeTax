@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ApiGatewayApplicationTests" project="api_gateway" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.capg.apigatewaydemo.ApiGatewayApplicationTests" time="0.38" displayname="ApiGatewayApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.capg.apigatewaydemo.ApiGatewayApplicationTests]">
+    <testcase name="contextLoads" classname="com.capg.apigatewaydemo.ApiGatewayApplicationTests" time="0.38" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.capg.apigatewaydemo.ApiGatewayApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>
